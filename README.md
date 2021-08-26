@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ColinOBrien590
+- 👋 Hi, I’m @Colin-OBrien
 - 👀 I’m interested in creating Apps and webtools for Python.
 - 🌱 I’m currently learning Python 3
 - 💞️ I’m looking to collaborate on projects and game ideas. As well as useful apps.
